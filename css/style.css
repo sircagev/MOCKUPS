@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+}
+.menu{
+    width: 10%;
+    height: 100vh;
+    background-color: green;
+}
+
+.listas{
+    width: 90%;
+    height: 100vh;
+    background-color: blue;
+}
